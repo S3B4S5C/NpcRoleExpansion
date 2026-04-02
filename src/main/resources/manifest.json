@@ -1,0 +1,18 @@
+{
+  "Group": "me.s3b4s5",
+  "Name": "NpcRoleExpansion",
+  "Version": "0.1.0",
+  "Description": "Adds extra NPCRole JSON building blocks to simplify authoring NPC behaviors via assets.",
+  "Authors": [
+    {
+      "Name": "s3b4s5"
+    }
+  ],
+  "Website": "",
+  "ServerVersion": "2026.02.19-1a311a592",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "DisabledByDefault": false,
+  "Main": "me.s3b4s5.NpcRoleExpansion",
+  "IncludesAssetPack": false
+}
